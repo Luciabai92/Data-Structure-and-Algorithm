@@ -1,4 +1,5 @@
-package Array;// create a function that reverse a string:
+
+// create a function that reverse a string:
 
 public class reverseString {
     private String reverse (String str) {
